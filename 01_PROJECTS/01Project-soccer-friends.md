@@ -1,4 +1,4 @@
-# ⚽ Project: Soccer Friends
+# ⚽ Project 01: Soccer Friends
 
 ## 1️⃣ 프로젝트 기본 정보
 

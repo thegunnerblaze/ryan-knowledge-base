@@ -1,4 +1,4 @@
-# 🎭 Project: Emotion Mask (Blaze)
+# 🎭 Project 02: Emotion Mask (Blaze)
 
 ## 1️⃣ 프로젝트 기본 정보
 
